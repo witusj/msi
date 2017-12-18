@@ -42,7 +42,7 @@ function submitForm(e){
     }
 
 
-// function to get form values
+// Function to get form values
 function getInputVal(id){
   return document.getElementById(id).value;
 }
