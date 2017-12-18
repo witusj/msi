@@ -89,7 +89,7 @@ notitiesRef.on('child_added', function (snapshot) {
   $notities.prepend(
     '<div class="card">' +
       '<div class="card-block">' +
-          '<img class="card-img-top" src="https://cdn.pixabay.com/photo/2013/07/13/11/34/owl-158411_1280.png" alt="Card image cap">' +
+          '<img class="card-img-top" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Emojione_1F429.svg" alt="Card image cap">' +
           '<h3 class="card-header card-inverse card-warning p-2 text-center">' + voor + '</h3>' +
           '<h5 class="card-title text-center card-inverse" style="background-color: #AAB7B8;">' + tussen + ' ' + achter + '</h5>' +
           '<p class="card-text card-outline-secondary">' + notitie + '</p>' +
